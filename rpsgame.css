@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+#list {
+ list-style: none;
+ display: flex;
+ justify-content: space-evenly;
+}
+#results {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+#ct {
+    text-align: center;
+}
+#ut {
+    text-align: center;
+}
+
+#er{
+    text-align: center;
+}
+
+li img:hover{
+    cursor: pointer; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
